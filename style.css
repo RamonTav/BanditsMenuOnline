@@ -1,5 +1,5 @@
 html {  
-   font-family: Helvetica, sans-serif;
+   font-family: Luminari, fantasy, sans-serif;
    font-size: 100%;
 }
 
@@ -27,7 +27,7 @@ header {
    grid-area: B;
    margin-bottom: 2rem;
    justify-content: space-between;
-   background-color: #8D2F52;
+   background-color: #B6051E;
    padding: 0 0 1rem 1rem;
    margin-bottom: 2rem;
 }
